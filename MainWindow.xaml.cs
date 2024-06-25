@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace CRM_App.Views
+namespace CRM_App
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
